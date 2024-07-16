@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "animes": [
+    {
+      "id": "1",
+      "nome": "Attack on Titan",
+      "preco": 29.99,
+      "imagem": "https://via.placeholder.com/200"
+    },
+    {
+      "id": "2",
+      "nome": "My Hero Academia",
+      "preco": 24.99,
+      "imagem": "https://via.placeholder.com/200"
+    },
+    {
+      "id": "3",
+      "nome": "Demon Slayer",
+      "preco": 34.99,
+      "imagem": "https://via.placeholder.com/200"
+    }
+  ]
 }
